@@ -15,3 +15,6 @@ uv.lock
 
 # Database
 *.db*
+
+# LangGraph
+/.langgraph_api
